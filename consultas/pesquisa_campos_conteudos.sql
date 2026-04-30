@@ -1,5 +1,5 @@
 -- =========================================
--- Nome: Pesquisa Campos ou Conteudos
+-- Nome: Pesquisa Campos ou Conteudos nas tabelas
 -- Categoria: consultas
 -- Tags: pesquisa_campos_conteudos
 -- Cliente: Todos 
