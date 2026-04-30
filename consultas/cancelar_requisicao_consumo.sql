@@ -2,6 +2,7 @@
 -- Nome: Cancelamento requisicao estoque_requisicoes_consumos
 -- Categoria: consultas
 -- Tags: cancela_requisicao_consumo
+-- Chamado: GLPI-131178
 -- Cliente: Cotia 
 -- requisicao numero : 116019
 -- =========================================
